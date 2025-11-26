@@ -3,4 +3,5 @@
 Bases de dados:
 
     dados_disciplinas.zip
-    dados_docentes
+    dados_docentes.zip
+    dados_alunos.zip
